@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: "Happy Monkey", cursive;
-  background: linear-gradient(rgb(15, 15, 190), purple);
+  background: linear-gradient(purple, rgb(247, 161, 175));
   color: #ffffff;
 }
 
@@ -71,7 +71,7 @@ p {
 }
 
 #gift-img-genius:hover {
-  background-image: url("bilder/Gif/supermom.gif");
+  background-image: url("bilder/Mother.jpg");
 }
 
 #gift-img-badass:hover {
